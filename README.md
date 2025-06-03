@@ -6,13 +6,13 @@ This is a lightweight Inventory Management Command Line Interface (CLI) tool bui
 
 ##  Features
 
-✅ Add, View, Update, and Delete Products  
-✅ Manage Product Categories and Suppliers  
-✅ Associate Multiple Suppliers to Products (Many-to-Many)  
-✅ View Low Stock Items for Restocking  
-✅ Track Orders and Order Items  
-✅ Persistent storage using SQLite + SQLAlchemy ORM  
-✅ Modularized structure with clean separation of models and CLI logic
+ Add, View, Update, and Delete Products  
+ Manage Product Categories and Suppliers  
+ Associate Multiple Suppliers to Products (Many-to-Many)  
+ View Low Stock Items for Restocking  
+ Track Orders and Order Items  
+ Persistent storage using SQLite + SQLAlchemy ORM  
+ Modularized structure with clean separation of models and CLI logic
 
 ---
 
