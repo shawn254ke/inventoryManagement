@@ -1,10 +1,10 @@
-# 🧾 Inventory Management CLI Application
+#  Inventory Management CLI Application
 
 This is a lightweight Inventory Management Command Line Interface (CLI) tool built with **Python** and **SQLAlchemy ORM**. It helps you manage products, categories, suppliers, and orders in a structured SQLite database — ideal for small retail businesses, educational projects, or as a backend prototype.
 
 ---
 
-## 📦 Features
+##  Features
 
 ✅ Add, View, Update, and Delete Products  
 ✅ Manage Product Categories and Suppliers  
@@ -16,7 +16,7 @@ This is a lightweight Inventory Management Command Line Interface (CLI) tool bui
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.x
 - **Database:** SQLite
@@ -25,7 +25,7 @@ This is a lightweight Inventory Management Command Line Interface (CLI) tool bui
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```plaintext
 inventory-cli/
